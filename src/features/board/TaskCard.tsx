@@ -1,4 +1,3 @@
-import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { useDraggable } from "@dnd-kit/core";
 import { Trash2 } from "lucide-react";
